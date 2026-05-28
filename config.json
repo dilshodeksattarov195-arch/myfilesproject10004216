@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvave",
+        "uuid": 29967328,
+        "checksum": "bcm12"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
